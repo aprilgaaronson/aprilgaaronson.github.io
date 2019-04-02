@@ -1,8 +1,12 @@
-body{color:#8562FF;
+body{
+	color:#8562FF;
 }
-h1{color;#453385;
+h1{
+	color;#453385;
 }
-#slogan{font-style:italic;
+#slogan{
+	font-style:italic;
 }
-ul{font-weight:bold;
+li{
+	font-weight:bold;
 }
